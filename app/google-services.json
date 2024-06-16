@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639572110914",
+    "project_id": "cookwithme-9a826",
+    "storage_bucket": "cookwithme-9a826.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639572110914:android:7bbb35bada9fae966e87db",
+        "android_client_info": {
+          "package_name": "com.kamaljakaria.cookwithme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Z_nQAorGM1LipBHN3e_-qytSVkotbcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
